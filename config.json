@@ -1,0 +1,34 @@
+{
+  "name": {
+    "zh-cn": "GM65-条码识读模块",
+    "en": "GM65-barcode scanner"
+  },
+  "description": {
+    "zh-cn": "GM65-条码识读模块",
+    "en": "GM65-barcode scanner"
+  },
+  "author": "Gangxiao xue",
+  "email": "gangxiao.xue@dfrobot.com",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "GM65",
+  "platform": [
+    "win",
+    "mac",
+    "web"
+  ],
+  "version": "0.0.1",
+  "asset": {
+    "arduinoC": {
+      "dir": "arduinoC/",
+      "version": "0.0.1",
+      "board": [
+        "arduino"
+      ],
+      "main": "main.ts",
+      "files": [
+
+      ]
+    }
+  }
+}
